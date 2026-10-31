@@ -1,0 +1,437 @@
+{
+  "single": {
+    "n": 30,
+    "success_rate": 0.43333333333333335,
+    "mean_ensemble_defect": 0.2867382008400619,
+    "per_target": [
+      {
+        "seq": "GUAUAUAAAAAAAUAUAC",
+        "target": "((((((......))))))",
+        "success": true,
+        "ensemble_defect": 0.040163597323447195,
+        "length": 18
+      },
+      {
+        "seq": "GUCAAUUAGAC",
+        "target": "(((.....)))",
+        "success": true,
+        "ensemble_defect": 0.18803140310278363,
+        "length": 11
+      },
+      {
+        "seq": "GUUAAUUAAAAAAUAUUAAC",
+        "target": "(((((((......)))))))",
+        "success": false,
+        "ensemble_defect": 0.1432751857782442,
+        "length": 20
+      },
+      {
+        "seq": "GUAUAUGAAAAAUAUAU",
+        "target": "((((((.....))))))",
+        "success": true,
+        "ensemble_defect": 0.08692235402151825,
+        "length": 17
+      },
+      {
+        "seq": "GUAUAUGAAAAAUAUAU",
+        "target": "((((((.....))))))",
+        "success": true,
+        "ensemble_defect": 0.08692235402151825,
+        "length": 17
+      },
+      {
+        "seq": "UUUUAAUCUUAAUUAAAU",
+        "target": "(((((((....)))))))",
+        "success": false,
+        "ensemble_defect": 0.4018900477479457,
+        "length": 18
+      },
+      {
+        "seq": "UUUUAAUCUUAAUUAAAU",
+        "target": "(((((((....)))))))",
+        "success": false,
+        "ensemble_defect": 0.4018900477479457,
+        "length": 18
+      },
+      {
+        "seq": "ACUAUUUUAAUACU",
+        "target": "(((((....)))))",
+        "success": false,
+        "ensemble_defect": 0.7089547698120897,
+        "length": 14
+      },
+      {
+        "seq": "GUCAAUUAGAC",
+        "target": "(((.....)))",
+        "success": true,
+        "ensemble_defect": 0.18803140310278363,
+        "length": 11
+      },
+      {
+        "seq": "UUUUAAUCUUAAUUAAAU",
+        "target": "(((((((....)))))))",
+        "success": false,
+        "ensemble_defect": 0.4018900477479457,
+        "length": 18
+      },
+      {
+        "seq": "GUAAUUAAAUUAC",
+        "target": "(((((...)))))",
+        "success": false,
+        "ensemble_defect": 0.46869744228578425,
+        "length": 13
+      },
+      {
+        "seq": "AUAUAAGUAAAGUUUAUAU",
+        "target": "((((((((...))))))))",
+        "success": false,
+        "ensemble_defect": 0.3536423314778756,
+        "length": 19
+      },
+      {
+        "seq": "AUAUAUACCUUAAGUAUAUAU",
+        "target": "((((((((.....))))))))",
+        "success": true,
+        "ensemble_defect": 0.043720529639907794,
+        "length": 21
+      },
+      {
+        "seq": "AUAUAUAAAAUAUAU",
+        "target": "((((((...))))))",
+        "success": false,
+        "ensemble_defect": 0.5168597558314593,
+        "length": 15
+      },
+      {
+        "seq": "GUAAUAUAAAAAUUAC",
+        "target": "(((((......)))))",
+        "success": true,
+        "ensemble_defect": 0.17191394778148356,
+        "length": 16
+      },
+      {
+        "seq": "ACUAUUUUAAUACU",
+        "target": "(((((....)))))",
+        "success": false,
+        "ensemble_defect": 0.7089547698120897,
+        "length": 14
+      },
+      {
+        "seq": "GUUAAUUAAAAAAUAUUAAC",
+        "target": "(((((((......)))))))",
+        "success": false,
+        "ensemble_defect": 0.1432751857782442,
+        "length": 20
+      },
+      {
+        "seq": "GUAUAUGAAAAAUAUAU",
+        "target": "((((((.....))))))",
+        "success": true,
+        "ensemble_defect": 0.08692235402151825,
+        "length": 17
+      },
+      {
+        "seq": "GUCUUUGAC",
+        "target": "(((...)))",
+        "success": false,
+        "ensemble_defect": 0.5204951570087994,
+        "length": 9
+      },
+      {
+        "seq": "GUCAAAAAAGAC",
+        "target": "(((......)))",
+        "success": true,
+        "ensemble_defect": 0.12387146992257059,
+        "length": 12
+      },
+      {
+        "seq": "AUAUAAGUAAAGUUUAUAU",
+        "target": "((((((((...))))))))",
+        "success": false,
+        "ensemble_defect": 0.3536423314778756,
+        "length": 19
+      },
+      {
+        "seq": "GUUAAUUAAAAAAUAUUAAC",
+        "target": "(((((((......)))))))",
+        "success": false,
+        "ensemble_defect": 0.1432751857782442,
+        "length": 20
+      },
+      {
+        "seq": "ACUAUUUUAAUACU",
+        "target": "(((((....)))))",
+        "success": false,
+        "ensemble_defect": 0.7089547698120897,
+        "length": 14
+      },
+      {
+        "seq": "AUAUAUACCUUAAGUAUAUAU",
+        "target": "((((((((.....))))))))",
+        "success": true,
+        "ensemble_defect": 0.043720529639907794,
+        "length": 21
+      },
+      {
+        "seq": "AUAUAAGUAAAGUUUAUAU",
+        "target": "((((((((...))))))))",
+        "success": false,
+        "ensemble_defect": 0.3536423314778756,
+        "length": 19
+      },
+      {
+        "seq": "AUACUAUUGUAU",
+        "target": "((((....))))",
+        "success": true,
+        "ensemble_defect": 0.18845121624069136,
+        "length": 12
+      },
+      {
+        "seq": "AUACUAUUGUAU",
+        "target": "((((....))))",
+        "success": true,
+        "ensemble_defect": 0.18845121624069136,
+        "length": 12
+      },
+      {
+        "seq": "GUUAAUUAAAAAAUAUUAAC",
+        "target": "(((((((......)))))))",
+        "success": false,
+        "ensemble_defect": 0.1432751857782442,
+        "length": 20
+      },
+      {
+        "seq": "GUCUUUGAC",
+        "target": "(((...)))",
+        "success": false,
+        "ensemble_defect": 0.5204951570087994,
+        "length": 9
+      },
+      {
+        "seq": "GUAAUAUAAAAAUUAC",
+        "target": "(((((......)))))",
+        "success": true,
+        "ensemble_defect": 0.17191394778148356,
+        "length": 16
+      }
+    ]
+  },
+  "best_of_10": {
+    "n": 30,
+    "success_rate": 0.43333333333333335,
+    "mean_ensemble_defect": 0.2867382008400619,
+    "per_target": [
+      {
+        "seq": "GUAUAUAAAAAAAUAUAC",
+        "target": "((((((......))))))",
+        "success": true,
+        "ensemble_defect": 0.040163597323447195,
+        "length": 18
+      },
+      {
+        "seq": "GUCAAUUAGAC",
+        "target": "(((.....)))",
+        "success": true,
+        "ensemble_defect": 0.18803140310278363,
+        "length": 11
+      },
+      {
+        "seq": "GUUAAUUAAAAAAUAUUAAC",
+        "target": "(((((((......)))))))",
+        "success": false,
+        "ensemble_defect": 0.1432751857782442,
+        "length": 20
+      },
+      {
+        "seq": "GUAUAUGAAAAAUAUAU",
+        "target": "((((((.....))))))",
+        "success": true,
+        "ensemble_defect": 0.08692235402151825,
+        "length": 17
+      },
+      {
+        "seq": "GUAUAUGAAAAAUAUAU",
+        "target": "((((((.....))))))",
+        "success": true,
+        "ensemble_defect": 0.08692235402151825,
+        "length": 17
+      },
+      {
+        "seq": "UUUUAAUCUUAAUUAAAU",
+        "target": "(((((((....)))))))",
+        "success": false,
+        "ensemble_defect": 0.4018900477479457,
+        "length": 18
+      },
+      {
+        "seq": "UUUUAAUCUUAAUUAAAU",
+        "target": "(((((((....)))))))",
+        "success": false,
+        "ensemble_defect": 0.4018900477479457,
+        "length": 18
+      },
+      {
+        "seq": "ACUAUUUUAAUACU",
+        "target": "(((((....)))))",
+        "success": false,
+        "ensemble_defect": 0.7089547698120897,
+        "length": 14
+      },
+      {
+        "seq": "GUCAAUUAGAC",
+        "target": "(((.....)))",
+        "success": true,
+        "ensemble_defect": 0.18803140310278363,
+        "length": 11
+      },
+      {
+        "seq": "UUUUAAUCUUAAUUAAAU",
+        "target": "(((((((....)))))))",
+        "success": false,
+        "ensemble_defect": 0.4018900477479457,
+        "length": 18
+      },
+      {
+        "seq": "GUAAUUAAAUUAC",
+        "target": "(((((...)))))",
+        "success": false,
+        "ensemble_defect": 0.46869744228578425,
+        "length": 13
+      },
+      {
+        "seq": "AUAUAAGUAAAGUUUAUAU",
+        "target": "((((((((...))))))))",
+        "success": false,
+        "ensemble_defect": 0.3536423314778756,
+        "length": 19
+      },
+      {
+        "seq": "AUAUAUACCUUAAGUAUAUAU",
+        "target": "((((((((.....))))))))",
+        "success": true,
+        "ensemble_defect": 0.043720529639907794,
+        "length": 21
+      },
+      {
+        "seq": "AUAUAUAAAAUAUAU",
+        "target": "((((((...))))))",
+        "success": false,
+        "ensemble_defect": 0.5168597558314593,
+        "length": 15
+      },
+      {
+        "seq": "GUAAUAUAAAAAUUAC",
+        "target": "(((((......)))))",
+        "success": true,
+        "ensemble_defect": 0.17191394778148356,
+        "length": 16
+      },
+      {
+        "seq": "ACUAUUUUAAUACU",
+        "target": "(((((....)))))",
+        "success": false,
+        "ensemble_defect": 0.7089547698120897,
+        "length": 14
+      },
+      {
+        "seq": "GUUAAUUAAAAAAUAUUAAC",
+        "target": "(((((((......)))))))",
+        "success": false,
+        "ensemble_defect": 0.1432751857782442,
+        "length": 20
+      },
+      {
+        "seq": "GUAUAUGAAAAAUAUAU",
+        "target": "((((((.....))))))",
+        "success": true,
+        "ensemble_defect": 0.08692235402151825,
+        "length": 17
+      },
+      {
+        "seq": "GUCUUUGAC",
+        "target": "(((...)))",
+        "success": false,
+        "ensemble_defect": 0.5204951570087994,
+        "length": 9
+      },
+      {
+        "seq": "GUCAAAAAAGAC",
+        "target": "(((......)))",
+        "success": true,
+        "ensemble_defect": 0.12387146992257059,
+        "length": 12
+      },
+      {
+        "seq": "AUAUAAGUAAAGUUUAUAU",
+        "target": "((((((((...))))))))",
+        "success": false,
+        "ensemble_defect": 0.3536423314778756,
+        "length": 19
+      },
+      {
+        "seq": "GUUAAUUAAAAAAUAUUAAC",
+        "target": "(((((((......)))))))",
+        "success": false,
+        "ensemble_defect": 0.1432751857782442,
+        "length": 20
+      },
+      {
+        "seq": "ACUAUUUUAAUACU",
+        "target": "(((((....)))))",
+        "success": false,
+        "ensemble_defect": 0.7089547698120897,
+        "length": 14
+      },
+      {
+        "seq": "AUAUAUACCUUAAGUAUAUAU",
+        "target": "((((((((.....))))))))",
+        "success": true,
+        "ensemble_defect": 0.043720529639907794,
+        "length": 21
+      },
+      {
+        "seq": "AUAUAAGUAAAGUUUAUAU",
+        "target": "((((((((...))))))))",
+        "success": false,
+        "ensemble_defect": 0.3536423314778756,
+        "length": 19
+      },
+      {
+        "seq": "AUACUAUUGUAU",
+        "target": "((((....))))",
+        "success": true,
+        "ensemble_defect": 0.18845121624069136,
+        "length": 12
+      },
+      {
+        "seq": "AUACUAUUGUAU",
+        "target": "((((....))))",
+        "success": true,
+        "ensemble_defect": 0.18845121624069136,
+        "length": 12
+      },
+      {
+        "seq": "GUUAAUUAAAAAAUAUUAAC",
+        "target": "(((((((......)))))))",
+        "success": false,
+        "ensemble_defect": 0.1432751857782442,
+        "length": 20
+      },
+      {
+        "seq": "GUCUUUGAC",
+        "target": "(((...)))",
+        "success": false,
+        "ensemble_defect": 0.5204951570087994,
+        "length": 9
+      },
+      {
+        "seq": "GUAAUAUAAAAAUUAC",
+        "target": "(((((......)))))",
+        "success": true,
+        "ensemble_defect": 0.17191394778148356,
+        "length": 16
+      }
+    ],
+    "any_success_rate": 0.43333333333333335
+  }
+}

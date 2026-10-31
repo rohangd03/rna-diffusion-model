@@ -1,0 +1,218 @@
+{
+  "n": 30,
+  "success_rate": 0.9666666666666667,
+  "mean_ensemble_defect": 0.08739064546223087,
+  "per_target": [
+    {
+      "seq": "UUAUUGGUGCCGCAGUGA",
+      "target": "((((((......))))))",
+      "success": true,
+      "ensemble_defect": 0.06305428329450792,
+      "length": 18
+    },
+    {
+      "seq": "AGCAGUGCGCU",
+      "target": "(((.....)))",
+      "success": true,
+      "ensemble_defect": 0.16923078642783482,
+      "length": 11
+    },
+    {
+      "seq": "AAAUUUGCGACCCCAAAUUU",
+      "target": "(((((((......)))))))",
+      "success": true,
+      "ensemble_defect": 0.09737712827035128,
+      "length": 20
+    },
+    {
+      "seq": "CUAGGGUAUGCCCCUAG",
+      "target": "((((((.....))))))",
+      "success": true,
+      "ensemble_defect": 0.013952971296918349,
+      "length": 17
+    },
+    {
+      "seq": "UUACCAAUGCCUGGUGA",
+      "target": "((((((.....))))))",
+      "success": true,
+      "ensemble_defect": 0.06824509193820343,
+      "length": 17
+    },
+    {
+      "seq": "GGUGGCAGACGUGUUACC",
+      "target": "(((((((....)))))))",
+      "success": true,
+      "ensemble_defect": 0.012415834333326131,
+      "length": 18
+    },
+    {
+      "seq": "UAAACAUAGAAAUGUUUA",
+      "target": "(((((((....)))))))",
+      "success": true,
+      "ensemble_defect": 0.07229255575742471,
+      "length": 18
+    },
+    {
+      "seq": "AUAGACAGGUCUAU",
+      "target": "(((((....)))))",
+      "success": true,
+      "ensemble_defect": 0.15587925702117206,
+      "length": 14
+    },
+    {
+      "seq": "AGCGGUCUGCU",
+      "target": "(((.....)))",
+      "success": true,
+      "ensemble_defect": 0.16961147519034592,
+      "length": 11
+    },
+    {
+      "seq": "UCUGUAUUGGUGUAUAGA",
+      "target": "(((((((....)))))))",
+      "success": true,
+      "ensemble_defect": 0.04490069653375993,
+      "length": 18
+    },
+    {
+      "seq": "GCCAUGGCGUGGC",
+      "target": "(((((...)))))",
+      "success": true,
+      "ensemble_defect": 0.03590206723493055,
+      "length": 13
+    },
+    {
+      "seq": "GGGCUUUUAUUAAGAGCUC",
+      "target": "((((((((...))))))))",
+      "success": true,
+      "ensemble_defect": 0.06314252554849928,
+      "length": 19
+    },
+    {
+      "seq": "GAUGGUUGCACAUCGACUAUC",
+      "target": "((((((((.....))))))))",
+      "success": true,
+      "ensemble_defect": 0.045963657569111645,
+      "length": 21
+    },
+    {
+      "seq": "ACUGCAUUAUGUAGU",
+      "target": "((((((...))))))",
+      "success": true,
+      "ensemble_defect": 0.08511119542632613,
+      "length": 15
+    },
+    {
+      "seq": "CACGUAACGGGAUGUG",
+      "target": "(((((......)))))",
+      "success": true,
+      "ensemble_defect": 0.04050369213781587,
+      "length": 16
+    },
+    {
+      "seq": "UCUCCCCGGGGAGA",
+      "target": "(((((....)))))",
+      "success": true,
+      "ensemble_defect": 0.05443519881529707,
+      "length": 14
+    },
+    {
+      "seq": "GGACUGUCGAUCAGCAGUUC",
+      "target": "(((((((......)))))))",
+      "success": true,
+      "ensemble_defect": 0.04039114796692898,
+      "length": 20
+    },
+    {
+      "seq": "UGAUUGGAUAUUAGUCA",
+      "target": "((((((.....))))))",
+      "success": true,
+      "ensemble_defect": 0.13753884420554718,
+      "length": 17
+    },
+    {
+      "seq": "GCCACCGGC",
+      "target": "(((...)))",
+      "success": true,
+      "ensemble_defect": 0.07842554317479601,
+      "length": 9
+    },
+    {
+      "seq": "AUCGUCUCCGGU",
+      "target": "(((......)))",
+      "success": false,
+      "ensemble_defect": 0.324726014495556,
+      "length": 12
+    },
+    {
+      "seq": "GGUAAUUCAUUGGAUUACU",
+      "target": "((((((((...))))))))",
+      "success": true,
+      "ensemble_defect": 0.04327333758156432,
+      "length": 19
+    },
+    {
+      "seq": "GUCCUUGUUGUUCCAGGGAU",
+      "target": "(((((((......)))))))",
+      "success": true,
+      "ensemble_defect": 0.031143539441740798,
+      "length": 20
+    },
+    {
+      "seq": "GCUGGAAAACCAGC",
+      "target": "(((((....)))))",
+      "success": true,
+      "ensemble_defect": 0.005351415165020539,
+      "length": 14
+    },
+    {
+      "seq": "GGUCUGUAAAUCGUGUAGACU",
+      "target": "((((((((.....))))))))",
+      "success": true,
+      "ensemble_defect": 0.10513895302840501,
+      "length": 21
+    },
+    {
+      "seq": "GGAUUUUGUACCAGGAUUC",
+      "target": "((((((((...))))))))",
+      "success": true,
+      "ensemble_defect": 0.04525740552204271,
+      "length": 19
+    },
+    {
+      "seq": "CCAAGUAUUUGG",
+      "target": "((((....))))",
+      "success": true,
+      "ensemble_defect": 0.11452672311340033,
+      "length": 12
+    },
+    {
+      "seq": "UCACCGAGGUGA",
+      "target": "((((....))))",
+      "success": true,
+      "ensemble_defect": 0.06360306925080346,
+      "length": 12
+    },
+    {
+      "seq": "AUUUGGUGACAUUGCUGAAU",
+      "target": "(((((((......)))))))",
+      "success": true,
+      "ensemble_defect": 0.11707784739190286,
+      "length": 20
+    },
+    {
+      "seq": "GGCCCAGCC",
+      "target": "(((...)))",
+      "success": true,
+      "ensemble_defect": 0.07878643901968455,
+      "length": 9
+    },
+    {
+      "seq": "CUUAAUAAUCCUUGAG",
+      "target": "(((((......)))))",
+      "success": true,
+      "ensemble_defect": 0.24446066771370834,
+      "length": 16
+    }
+  ],
+  "mean_time_s": 0.0005047611271341641
+}
